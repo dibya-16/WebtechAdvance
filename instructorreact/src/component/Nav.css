@@ -1,0 +1,25 @@
+#nav-menu{
+	width:1580px;height:60px;
+	background-color:#639e63;
+	margin:0 auto;
+
+}
+#nav-menu ul li{
+	list-style-type: none;
+	margin:25px;
+	float:left;
+}
+#nav-menu ul li a{
+	text-decoration:none;
+	font-size:21px;
+	color:white;
+	cursor:crosshair;
+}
+#nav-menu ul li a:hover{
+	text-decoration:underline;
+	color:red;
+
+
+
+	
+}
